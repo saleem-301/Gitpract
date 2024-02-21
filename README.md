@@ -3,8 +3,8 @@ Practicing Git and Github
 Hi this is Saleem
 Practicing Git and Github for GI Course
 <br>
-"MUHAMMAD adnan"
+"Hammad"
 <br>
-"MUHAMMAD YOUSUF"
+"MUHAMMAD SALEEM"
 
 
